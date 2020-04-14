@@ -6,7 +6,7 @@
 
 
 
-### 技术栈
+### 技术点
 
  - react 
  - react-router
